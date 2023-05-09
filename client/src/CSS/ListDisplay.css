@@ -1,0 +1,16 @@
+.ListDisplay{
+    margin-top: 1em;
+    color: white;
+}
+
+.ListDisplay__container{
+    border: 1px solid transparent;
+    border-radius: 0.5em;
+    height: fit-content;
+    background-color: #fff1;
+}
+
+.ListDisplay__header{
+    font-size: larger;
+    margin-top: 1em;
+}

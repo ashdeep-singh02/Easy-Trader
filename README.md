@@ -1,2 +1,1 @@
-# Easy-Trader
-Stock Trading Simulator
+# stock-trading-ctp
