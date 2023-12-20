@@ -1,4 +1,4 @@
-# Easy Trader (Stock Trading Application)
+# Easy Trader 📈 (Stock Trading Application)
 
 CUNY Tech Prep Final Project
 
